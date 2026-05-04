@@ -1,6 +1,18 @@
 # 💸 Personal Finance Categorizer  
 ### 🧠 AI-Powered Expense Intelligence Desktop App
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/.NET-8-blue?style=for-the-badge&logo=dotnet" />
+<img src="https://img.shields.io/badge/WPF-Desktop_App-purple?style=for-the-badge&logo=windows" />
+<img src="https://img.shields.io/badge/AI-OpenAI-green?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/MVVM-Architecture-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Charts-LiveCharts2-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CSV-CsvHelper-yellow?style=for-the-badge" />
+
+
+</p>
+
 A modern desktop application that transforms raw transaction data into clear, actionable financial insights using AI and smart categorization.
 
 ---
@@ -188,10 +200,7 @@ This project demonstrates:
 ![Monthly Trends](screenshots/analytics_bars.png)
 ---
 
-## 🤝 Contribution
 
-Contributions are welcome!  
-Feel free to fork this repository and improve it.
 
 ---
 
