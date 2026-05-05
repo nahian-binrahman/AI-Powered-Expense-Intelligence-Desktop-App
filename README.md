@@ -198,6 +198,13 @@ This project demonstrates:
 ![Main Dashboard](screenshots/main_dashboard.png)
 ![Spending Analytics](screenshots/analytics_pie.png)
 ![Monthly Trends](screenshots/analytics_bars.png)
+
+---
+
+## 🎥 Live Demo
+
+https://github.com/nahian-binrahman/AI-Powered-Expense-Intelligence-Desktop-App/raw/main/screenshots/demo.mp4
+
 ---
 
 
