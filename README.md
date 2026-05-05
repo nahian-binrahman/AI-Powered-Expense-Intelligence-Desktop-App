@@ -206,7 +206,19 @@ This project demonstrates:
 https://github.com/nahian-binrahman/AI-Powered-Expense-Intelligence-Desktop-App/raw/main/screenshots/demo.mp4
 
 ---
+## 💻 Download App
 
+Download the Windows desktop version:
+
+👉 [Download Personal Finance Categorizer](https://drive.google.com/file/d/1to0MRpO8zXC0wwYZbuaCusXFMWcxDMA1/view?usp=sharing)
+
+### How to Run
+
+1. Download the ZIP file  
+2. Extract it  
+3. Open the folder  
+4. Double-click `PersonalFinanceCategorizer.exe`  
+5. Upload a CSV and start analyzing expenses 🚀
 
 
 ---
